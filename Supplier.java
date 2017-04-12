@@ -3,7 +3,7 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 /**
- * Created by User on 4/12/2017.
+ * Created by Twiska Ajeng on 4/12/2017.
  */
 public class Supplier {
     String kd_supplier;
