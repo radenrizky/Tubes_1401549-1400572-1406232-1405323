@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 /**
- * Created by Syifa Solihat on 4/12/2017.
+ * Created by Twiska Ajeng on 4/12/2017.
  */
 public class Detail_transaksi_beli {
     int no_transaksi;
